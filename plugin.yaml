@@ -1,0 +1,7 @@
+---
+name: "nukeplugins"
+version: "0.1.0"
+usage: "Remove all plugins (except this one)"
+description: "Remove all plugins (except this one)"
+command: "$HELM_PLUGIN_DIR/nukeplugins.sh"
+useTunnel: false
